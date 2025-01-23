@@ -5,7 +5,7 @@
 ## How Can I Contribute?
 
 ### Reporting Bugs
-
+ 
 This section guides you through submitting a bug report for WebReaper. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
 When you are creating a bug report, please include as many details as possible.
