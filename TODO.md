@@ -6,5 +6,5 @@
 - [ ] Think about creating DataDiscoveryCrawler and DataExtractionCrawler
 - [X] Use channels instead of blocking collection
 - [ ] Implement throttling
-- [ ] Save logs to Seq
+- [ ] Save logs to Seq 
 - [ ] Write tests
